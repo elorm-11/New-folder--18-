@@ -1,4 +1,4 @@
-for x in range(10):
+for x in range(20):
     if x % 20 == 0:
         print("twist")
 
